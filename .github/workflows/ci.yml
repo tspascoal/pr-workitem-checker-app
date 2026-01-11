@@ -16,6 +16,7 @@ jobs:
     name: Build and Test with node version
 
     strategy:
+      fail-fast: false
       matrix:
         node-version: [20, 22, 24]
 
