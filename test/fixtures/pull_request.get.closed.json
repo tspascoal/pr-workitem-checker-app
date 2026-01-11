@@ -1,0 +1,9 @@
+{
+  "number": 121,
+  "state": "closed",
+  "body": "[AB#123](https://dev.azure.com/org/project/_workitems/edit/123)",
+  "head": {
+    "ref": "thundering-mona-patch-46",
+    "sha": "50e5628cda538bcbb6f3fec3edebe4bb5afb3891"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "pr-workitem-checker-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "pr-wi-linked",
+  "author": "Tiago Pascoal",
+  "license": "ISC",
+  "homepage": "https://github.com//",
+  "keywords": [
+    "probot",
+    "github",
+    "probot-app"
+  ],
+  "scripts": {
+    "start": "probot run ./index.js",
+    "test": "node --test",
+    "lint": "node --check ./index.js && node --check ./helpers/validatePullRequest.js"
+  },
+  "dependencies": {
+    "probot": "^14.2.4"
+  },
+  "devDependencies": {
+    "nock": "^14.0.10",
+    "smee-client": "^5.0.0"
+  },
+  "engines": {
+    "node": ">= 18"
+  },
+  "type": "module"
+}

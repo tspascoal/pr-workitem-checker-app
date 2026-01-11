@@ -1,0 +1,8 @@
+{
+  "number": 1,
+  "body": "Missing WI reference AB#789",
+  "head": {
+    "ref": "thundering-mona-patch-46",
+    "sha": "50e5628cda538bcbb6f3fec3edebe4bb5afb3891"
+  }
+}
