@@ -17,7 +17,7 @@
     "lint": "node --check ./index.js && node --check ./helpers/validatePullRequest.js"
   },
   "dependencies": {
-    "probot": "^14.2.4"
+    "probot": "^14.3.1"
   },
   "devDependencies": {
     "nock": "^14.0.11",
