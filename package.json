@@ -20,7 +20,7 @@
     "probot": "^14.3.2"
   },
   "devDependencies": {
-    "nock": "^14.0.16",
+    "nock": "^14.0.17",
     "smee-client": "^5.0.0"
   },
   "engines": {
